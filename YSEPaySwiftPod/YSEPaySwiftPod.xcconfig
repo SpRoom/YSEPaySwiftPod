@@ -1,0 +1,2 @@
+MODULEMAP_FILE[sdk=iphoneos] = $(SRCROOT)/YSEPaySwiftPod/YSEPaySwiftPod.modulemap
+MODULEMAP_FILE[sdk=iphonesimulator] = $(SRCROOT)/YSEPaySwiftPod/YSEPaySwiftPod.modulemap
